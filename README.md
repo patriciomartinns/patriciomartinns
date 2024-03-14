@@ -24,6 +24,7 @@
 
 - **Email**: contato@patriciomartins.com.br
 - **LinkedIn**: [Patrício Martins](https://www.linkedin.com/in/patriciomartins/)
+- **Site Pessoal**: [patriciomartins.com.br](https://patriciomartins.com.br)
 
 ## Contribuições para a Comunidade
 
@@ -32,13 +33,15 @@
 
 ## Interesses Pessoais
 
+- 🎶 Música: Apaixonado por música, tanto em ouvir quanto em tocar.
+- 🍳 Cozinhar: Amo experimentar novas receitas e compartilhar minhas experiências culinárias.
 - 📚 Aprendizado contínuo e compartilhamento de conhecimento.
 - 🚀 Exploração de novas tecnologias e tendências.
 
 ## Agradecimentos
 
-- Agradeço a todos que contribuíram para minha jornada no desenvolvimento web.
+- Agradeço a todos(as) que contribuíram para minha jornada e desenvolvimento até aqui.
 
 ---
 
-**Patrício Martins** © 2024 [Patrício Martins](https://patriciomartins.com.br)
+**Patrício Martins** © 2024 [patriciomartins.com.br](https://patriciomartins.com.br)
