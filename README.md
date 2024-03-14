@@ -1,46 +1,46 @@
-# Olá, sou Patrício Martins! 👋
+# Hello, I'm Patrício Martins! 👋
 
-## Sobre Mim
+## About Me
 
-👨‍💻 Sou o Fundador e Consultor Chefe da [Linky Soluções](https://linkysolucoes.com.br), uma empresa de tecnologia baseada no Ceará, Brasil.
+👨‍💻 I am the Founder and Chief Consultant of [Linky Solutions](https://linkysolucoes.com.br), a technology company based in Ceará, Brazil.
 
-🌱 Atualmente, estou focado em desenvolver soluções inovadoras e eficientes para empresas, utilizando minhas habilidades em PHP e outras tecnologias web.
+🌱 Currently, I am focused on developing innovative and efficient solutions for businesses, using my skills in PHP and other web technologies.
 
-🔭 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades.
+🔭 I am always in search of new challenges and opportunities to expand my knowledge and skills.
 
-## Habilidades Técnicas
+## Technical Skills
 
-- **PHP**: Desenvolvimento web robusto e escalável.
-- **Laravel**: Criação de aplicações web complexas com Laravel.
-- **JavaScript**: Desenvolvimento front-end e back-end com JavaScript.
-- **Vue.js**: Criação de interfaces de usuário dinâmicas e responsivas.
-- **Docker**: Containers e orquestração de aplicações.
+- **PHP**: Robust and scalable web development.
+- **Laravel**: Building complex web applications with Laravel.
+- **JavaScript**: Front-end and back-end development with JavaScript.
+- **Vue.js**: Creating dynamic and responsive user interfaces.
+- **Docker**: Containers and application orchestration.
 
-## Projetos Destaque
+## Featured Projects
 
-- **filament-ptbr-form-fields**: Contribuição para a tradução de campos de formulário do Filament para o português brasileiro.
+- **filament-ptbr-form-fields**: Contribution to the translation of Filament form fields to Brazilian Portuguese.
 
-## Como Me Entrar em Contato
+## How to Contact Me
 
 - **Email**: contato@patriciomartins.com.br
 - **LinkedIn**: [Patrício Martins](https://www.linkedin.com/in/patriciomartins/)
-- **Site Pessoal**: [patriciomartins.com.br](https://patriciomartins.com.br)
+- **Personal Website**: [patriciomartins.com.br](https://patriciomartins.com.br)
 
-## Contribuições para a Comunidade
+## Community Contributions
 
-- **GitHub**: Contribuí para vários projetos de código aberto, incluindo traduções e melhorias de código.
-- **Blog**: Escrevo sobre desenvolvimento web e tecnologias emergentes.
+- **GitHub**: Contributed to various open-source projects, including translations and code improvements.
+- **Blog**: Writing about web development and emerging technologies.
 
-## Interesses Pessoais
+## Personal Interests
 
-- 🎶 Música: Apaixonado por música, tanto em ouvir quanto em tocar.
-- 🍳 Cozinhar: Amo experimentar novas receitas e compartilhar minhas experiências culinárias.
-- 📚 Aprendizado contínuo e compartilhamento de conhecimento.
-- 🚀 Exploração de novas tecnologias e tendências.
+- 🎶 Music: Passionate about music, both listening and playing.
+- 🍳 Cooking: Love experimenting with new recipes and sharing my culinary experiences.
+- 📚 Continuous learning and knowledge sharing.
+- 🚀 Exploring new technologies and trends.
 
-## Agradecimentos
+## Acknowledgments
 
-- Agradeço a todos(as) que contribuíram para minha jornada e desenvolvimento até aqui.
+- I am grateful to everyone who has contributed to my journey in web development.
 
 ---
 
