@@ -22,7 +22,7 @@
 
 ## Como Me Entrar em Contato
 
-- **Email**: patricio@linkysolucoes.com.br
+- **Email**: contato@patriciomartins.com.br
 - **LinkedIn**: [Patrício Martins](https://www.linkedin.com/in/patriciomartins/)
 
 ## Contribuições para a Comunidade
@@ -41,4 +41,4 @@
 
 ---
 
-**Linky Soluções** © 2024 [Linky Soluções](https://linkysolucoes.com.br)
+**Patrício Martins** © 2024 [Patrício Martins](https://patriciomartins.com.br)
