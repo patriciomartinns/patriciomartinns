@@ -16,10 +16,6 @@
 - **Vue.js**: Creating dynamic and responsive user interfaces.
 - **Docker**: Containers and application orchestration.
 
-## Featured Projects
-
-- **filament-ptbr-form-fields**: Contribution to the translation of Filament form fields to Brazilian Portuguese.
-
 ## How to Contact Me
 
 - **Email**: contato@patriciomartins.com.br
