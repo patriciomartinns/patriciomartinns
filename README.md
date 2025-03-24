@@ -40,4 +40,4 @@
 
 ---
 
-**Patrício Martins** © 2024 [patriciomartins.com.br](https://patriciomartins.com.br)
+**Patrício Martins** © 2025 [patriciomartins.com.br](https://patriciomartins.com.br)
